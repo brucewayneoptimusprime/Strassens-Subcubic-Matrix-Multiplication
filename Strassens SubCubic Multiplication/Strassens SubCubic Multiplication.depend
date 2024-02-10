@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1707558488 source:d:\daa weekly problems\strassens subcubicmatrix multiplication\strassens subcubic multiplication\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
